@@ -6,32 +6,6 @@
 
 - 📫 How to reach me *veliyevafidan355@gmail.com*
 
-sol terefi opyala mumkunse
-                 Fidan Veliyeva
-            ```                             celefetch
-          `,,`      ,;cc;`                  ----------
-        `;;,`     `l0NWWKl`                 Uptime; "18 years"
-     ,;c;,      `oXMMMMMXd,                Languages; "Python, C++"
-   `,clc,      ;xNMMWXOONMMWk;              OS; "Arch Linux"
-   `,clc,      ;xNMMWXOONMMWk;              WM; "i3-gaps"
-  `;cll;`     ;0WMMNxc,,dNMMWO;`            DE; "KDE Plasma"
-  ;clll;`   `;0WMMNd,   `oXMMW0c`           Shell; "Zsh"
-  ;clll;`   `;0WMMNd,   `oXMMW0c`           Editor; "Neovim, VSCode"
- ,cllll;`  `cKMMMXo`     `lKMMMKc`          Hobbies; "hip hop, football, gaming"
-`;lllll;` `lXMMMKl`       `cKMMMKc`   ```   Other; "2021 OII finalist (Olimpiadi Italiane di Informatica)"
-`;llllll;`;0WMW0c`         `cKWWNx, ,;;,    
-`;llloool;;cx0k;            `;doc;;;;;`     
-`;llooooool;;;,            `,;;cllc;,`      
- ,clooooooooolcc;;;;;;;;;cllodoc;;lk0o`     contacts
-  ,;looooooooddddddddddddddlc;, ,xNMMXo`    --------
-   `,;clooodddddddddoolc;;,`     ;0WMMXl`   Telegram; "t.me/alessiocelentano"
-   `,;clooodddddddddoolc;;,`     ;0WMMXl`   Telegram; "t.me/nastybox"
-      `,;;;;;;;;;;;,,``           ;xXXOc    Reddit; "u/alessiocelentano"
-                                   `,;,     Email; "alessiocelentano2003@gmail.com"
-
-
-
-
 
 <p align="left"> <a href="https://github.com/fidanveliyeva/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fidanveliyeva&margin-w=15" alt="bbarisbolat" /></a> </p>
 <p align="center">
