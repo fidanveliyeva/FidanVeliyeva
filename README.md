@@ -6,6 +6,7 @@
 
 - 📫 How to reach me *veliyevafidan355@gmail.com*
 
+<img src="https://loading.io/asset/774373"/>
 
 <p align="left"> <a href="https://github.com/fidanveliyeva/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fidanveliyeva&margin-w=15" alt="bbarisbolat" /></a> </p>
 <p align="center">
