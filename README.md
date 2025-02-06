@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="left"> <a href="https://github.com/fidanveliyeva/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fidanveliyevav&margin-w=15" alt="bbarisbolat" /></a> </p>
+<p align="left"> <a href="https://github.com/fidanveliyeva/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fidanveliyeva&margin-w=15" alt="bbarisbolat" /></a> </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=fidanveliyeva&theme=juicyfresh" /><a>
 </p>
