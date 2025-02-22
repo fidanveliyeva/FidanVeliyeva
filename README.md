@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Fidan Veliyeva</h1>
+<h1 align="center">Hi 👋, I'm Fidan Valiyeva</h1>
 <h3 align="center">👨‍💻 Front-End developer from Azerbaijan</h3>
 
 
